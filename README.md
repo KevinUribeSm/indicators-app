@@ -32,8 +32,8 @@ Esta es una aplicación móvil desarrollada con **React Native**, que permite co
 1. Clona el repositorio:
 
 ```bash
-git clone
-cd
+git clone https://github.com/KevinUribeSm/indicators-app
+cd indicators-app
 ```
 
 Ejecuta
@@ -48,10 +48,16 @@ o
 npm install
 ```
 
-# iOS
+## ⚙️ Ejecución
+
+### Para correr la aplicación en ios corre el siguiente comando
+
+# iOS 🍎
 
 npx react-native run-ios
 
-# Android
+### Y para correr la aplicación en android
+
+# Android 🤖
 
 npx react-native run-android
